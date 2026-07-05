@@ -1,0 +1,8 @@
+{
+  "name": "DevPulse",
+  "description": "An AI-powered code review co-partner featuring codebase security scanning, real-time commit review streams, and an interactive Error Detective.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
